@@ -1,0 +1,3 @@
+
+export KAFKA_HOST=192.168.56.10
+
