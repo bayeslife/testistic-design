@@ -20,14 +20,14 @@ A UI for filtering of test results across the dimensions of time, target, featur
 # How
 
 ### Testistic-Model
-[Repository](http://bayeslife.github.com/testistic-model)
+[Repository](https://github.com/bayeslife/testistic-model)
 
 A domain model
 
 ### Testistic-Storage
 Storage of test data as a stream of kafka messages.
 
-[Source](http://bayeslife.github.com/testability-storage)
+[Source](https://github.com/bayeslife/testistic-storage)
 
 ### Testistic-API
 
