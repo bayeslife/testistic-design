@@ -19,8 +19,8 @@ A UI for filtering of test results across the dimensions of time, target, featur
 
 # How
 
-### Testistic-Represenation
-[Repository](http://bayeslife.github.com/testistic-representation)
+### Testistic-Model
+[Repository](http://bayeslife.github.com/testistic-model)
 
 A domain model
 
@@ -31,13 +31,13 @@ Storage of test data as a stream of kafka messages.
 
 ### Testistic-API
 
-[Repository](https://gitlab.com/testistic/testistic-api)
+[Repository](https://github.com/bayeslife/testistic-api)
 
 APIs which let anyone push tests cases and results.
 
 ### Testistic-UI
 
-[Repository](https://gitlab.com/testistic/testistic-ui)
+[Repository](https://github.com/bayeslife/testistic-ui)
 
 A VueJS UI which allows selection of test results by
 - Target
@@ -47,21 +47,21 @@ A VueJS UI which allows selection of test results by
 ![A screenshot](./testistic-ui.png)
 
 ### Testistic-Mocha-Reporter
-[Repository](https://gitlab.com/testistic/testistic-mocha-reporter)
+[Repository](https://github.com/bayeslife/testistic-mocha-reporter)
 
 A Mocha Reporter which a third party can use which pushes test data to testistic.
 
 ### Testistic-Jest-Reporter
-[Repository](https://gitlab.com/testistic/testistic-jest-reporter)
+[Repository](https://github.com/bayeslife/testistic-jest-reporter)
 
 A Jest Reporter which a third party can use which pushes test data to testistic.
 
 ### Testistic-Stream
-[Repository](https://gitlab.com/testistic/testistic-stream)
+[Repository](https://github.com/bayeslife/testistic-stream)
 
 Process the stream of test events in order to compute aggregate information.
 
 ### Testistic-Deployment
-[Repository](https://gitlab.com/testistic/testistic-deployment)
+[Repository](https://github.com/bayeslife/testistic-deployment)
 
 Deployment into kubernets on Google Cloud Platform
