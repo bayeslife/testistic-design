@@ -20,10 +20,9 @@ A UI for filtering of test results across the dimensions of time, target, featur
 # How
 
 ### Testistic-Represenation
-A domain model
-![A domain model](./DomainModel.PNG)
+[Repository](http://bayeslife.github.com/testistic-representation)
 
-[Source](http://bayeslife.github.com/testability-representation)
+A domain model
 
 ### Testistic-Storage
 Storage of test data as a stream of kafka messages.
@@ -61,3 +60,8 @@ A Jest Reporter which a third party can use which pushes test data to testistic.
 [Repository](https://gitlab.com/testistic/testistic-stream)
 
 Process the stream of test events in order to compute aggregate information.
+
+### Testistic-Deployment
+[Repository](https://gitlab.com/testistic/testistic-deployment)
+
+Deployment into kubernets on Google Cloud Platform
